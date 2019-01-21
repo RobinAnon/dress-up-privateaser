@@ -1,0 +1,41 @@
+body {
+	background-image:url(background.jpg);
+}
+
+h1 {
+	text-align: center;
+}
+
+
+p.message {
+	text-align: center;
+	color: blue;
+	margin-top: 2%;
+	margin-bottom: 5%;
+	font-family: times;
+	font-size: 120%;
+}
+#bar,#booker {
+	margin-left: 32%;
+	padding-bottom: 2%;
+	font-family: times;
+}
+
+#compute{
+	display: block;
+    margin : auto;
+    font-family: comic sans ms;
+}
+
+#actors{	
+	padding-top: 2%;
+	text-align: center;
+	font-family: times;
+	font-size: 120%;
+}
+img.hello{
+	padding-left: 34%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
